@@ -7,7 +7,7 @@ Neuro Ledger (Neutron)
 
 *CA* 
 
-A New Frontier in Cognitive Data Ownership and Monetization
+A New Frontier in Cognitive Data Ownership and Monetization.
 
 *Concept Overview*
 
