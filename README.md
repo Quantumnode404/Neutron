@@ -1,5 +1,11 @@
-NeuroLedger (Neutron)
+Neuro Ledger (Neutron)
 --
+
+*Website*
+
+*Twitter*
+
+*CA* 
 
 A New Frontier in Cognitive Data Ownership and Monetization
 
